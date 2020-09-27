@@ -1,2 +1,11 @@
-# python_learn
-入门python的小项目
+## python_learn
+- 入门python的小案例
+  - 通过几个小案例来学习python
+    - 汇率兑换
+    - 画图
+    - BMR值计算
+    - 52周存钱
+    - 判断日期
+    - 密码
+    - 掷色子
+    - 空气质量计算
